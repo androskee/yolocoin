@@ -1,0 +1,9 @@
+Building Yolocoin
+
+See doc/readme-qt.rst for instructions on building Yolocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Yolocoin.
+
+See doc/build-*.txt for instructions on building yolocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Yolocoin.
